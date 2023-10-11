@@ -1,0 +1,13 @@
+.p {
+    margin: 0;
+}
+
+.card-cont {
+    display: flex;
+    margin-bottom: 16px;
+}
+
+.car-image {
+    width: 200px;
+    height: 150px;
+}
